@@ -9,7 +9,7 @@ node {
 
     stage('Build image') {
   
-       app = docker.build("raj80dockerid/test")
+       app = docker.build("tmdqls2068/goormpj")
     }
 
     stage('Test image') {
